@@ -1,0 +1,26 @@
+body{
+    background-color: navy;
+}
+
+.Fizz{
+    background-color: rgb(255, 166, 0);
+    border: 1px solid white;
+}
+
+.Buzz{
+    background-color: rgb(255, 0, 98);
+    color: white;
+    border: 1px solid white;
+}
+
+.FizzBuzz{
+    background-color: lightgreen;
+    color: navy;
+    border: 1px solid white;
+}
+
+.none{
+    background-color: rgb(255, 255, 109);
+    border: 1px solid white;
+}
+
